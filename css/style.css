@@ -3567,10 +3567,6 @@ section {
   }
 
   .main-page .section {
-    margin-bottom: 3.125rem;
-  }
-
-  .main-page .section {
     margin-bottom: 4.375rem;
   }
 
@@ -4341,6 +4337,10 @@ section {
 @media (max-width: 47.99875em) {
   .main-page {
     padding-bottom: 70px;
+  }
+
+  .main-page .section {
+    margin-bottom: 3.125rem;
   }
 
   .title {
